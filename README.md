@@ -2,4 +2,4 @@
 CSS challenge .simple.
 
 
-FronteEnd Mentor Newbie challenge.
+FrontEnd Mentor Newbie challenge.
